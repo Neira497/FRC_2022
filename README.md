@@ -1,6 +1,6 @@
 # FRC_2022
 
-# FIRST Robotics Competition (FRC) Overview
+## FIRST Robotics Competition (FRC) Overview
 
 The FIRST Robotics Competition is a globally recognized robotics 
 competition designed for middle and high school students, with the primary 
